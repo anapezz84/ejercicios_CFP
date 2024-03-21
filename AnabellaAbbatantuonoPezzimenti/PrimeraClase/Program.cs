@@ -22,7 +22,7 @@
 
             Console.WriteLine("Bienvenido " + nombre + " " + apellido + " ud tiene: " + edadNumerica + " años ");
 
-            Console.WriteLine($"Bienvenido"); 
+            Console.WriteLine($"Bienvenido {nombre} {apellido} , ud tiene: {edadNumerica} años. "); 
 
 
         }

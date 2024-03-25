@@ -20,9 +20,11 @@
 
             edadNumerica = int.Parse(edadTexto);
 
-            Console.WriteLine("Bienvenido " + nombre + " " + apellido + " ud tiene: " + edadNumerica + " años ");
+            //Console.WriteLine("Bienvenido " + nombre + " " + apellido + " ud tiene: " + edadNumerica + " años "); FORMA STANDARD CLASICA DE CONCATENAR
 
-            Console.WriteLine($"Bienvenido {nombre} {apellido} , ud tiene: {edadNumerica} años. "); 
+            Console.WriteLine("Bienvenido {0} {1} , usted tiene: {2} años. ", nombre, apellido, edadNumerica); FORMA MAS OPTIMA
+
+            //Console.WriteLine($"Bienvenido {nombre} {apellido} , ud tiene: {edadNumerica} años. "); 
 
 
         }

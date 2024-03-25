@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\bin\Debug\net8.0\PrimeraClase.exe
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\bin\Debug\net8.0\PrimeraClase.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\bin\Debug\net8.0\PrimeraClase.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\bin\Debug\net8.0\PrimeraClase.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\bin\Debug\net8.0\PrimeraClase.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\refint\PrimeraClase.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\PrimeraClase.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\PrimeraClase\obj\Debug\net8.0\ref\PrimeraClase.dll

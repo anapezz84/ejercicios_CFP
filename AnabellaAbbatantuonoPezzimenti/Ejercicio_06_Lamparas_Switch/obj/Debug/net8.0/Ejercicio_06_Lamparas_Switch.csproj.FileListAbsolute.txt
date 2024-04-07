@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\bin\Debug\net8.0\Ejercicio_06_Lamparas_Switch.exe
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\bin\Debug\net8.0\Ejercicio_06_Lamparas_Switch.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\bin\Debug\net8.0\Ejercicio_06_Lamparas_Switch.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\bin\Debug\net8.0\Ejercicio_06_Lamparas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\bin\Debug\net8.0\Ejercicio_06_Lamparas_Switch.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\refint\Ejercicio_06_Lamparas_Switch.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\Ejercicio_06_Lamparas_Switch.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Ejercicio_06_Lamparas_Switch\obj\Debug\net8.0\ref\Ejercicio_06_Lamparas_Switch.dll

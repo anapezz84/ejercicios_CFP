@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\bin\Debug\net8.0\Strings_Ejercicio_01_OtraForma.exe
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\bin\Debug\net8.0\Strings_Ejercicio_01_OtraForma.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\bin\Debug\net8.0\Strings_Ejercicio_01_OtraForma.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\bin\Debug\net8.0\Strings_Ejercicio_01_OtraForma.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\bin\Debug\net8.0\Strings_Ejercicio_01_OtraForma.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\refint\Strings_Ejercicio_01_OtraForma.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\Strings_Ejercicio_01_OtraForma.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\Strings_Ejercicio_01_OtraForma\obj\Debug\net8.0\ref\Strings_Ejercicio_01_OtraForma.dll

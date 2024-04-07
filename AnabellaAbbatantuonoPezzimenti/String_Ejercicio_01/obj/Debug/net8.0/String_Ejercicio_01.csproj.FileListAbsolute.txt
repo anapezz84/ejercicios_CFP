@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\bin\Debug\net8.0\String_Ejercicio_01.exe
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\bin\Debug\net8.0\String_Ejercicio_01.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\bin\Debug\net8.0\String_Ejercicio_01.runtimeconfig.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\bin\Debug\net8.0\String_Ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\bin\Debug\net8.0\String_Ejercicio_01.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\refint\String_Ejercicio_01.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\String_Ejercicio_01.genruntimeconfig.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\String_Ejercicio_01\obj\Debug\net8.0\ref\String_Ejercicio_01.dll

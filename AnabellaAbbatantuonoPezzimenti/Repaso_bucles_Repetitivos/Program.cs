@@ -44,7 +44,7 @@
 
                 if (i > 0)
                 {
-                    Console.WriteLine($"{i} es un numerop positivo");
+                    Console.WriteLine($"{i} es un numero positivo");
                 }
             }
 

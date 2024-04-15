@@ -1,23 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{43E6F4F9-5152-4E48-AF94-20B08BEC6D43}|Strings_Ejercicio_05\\Strings_Ejercicio_05.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\strings_ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43E6F4F9-5152-4E48-AF94-20B08BEC6D43}|Strings_Ejercicio_05\\Strings_Ejercicio_05.csproj|solutionrelative:strings_ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77503158-E243-4BA4-BC10-A5108FB1AB97}|Vectores_Ejercicio_01_Con_FUNCIONES\\Vectores_Ejercicio_01_Con_FUNCIONES.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\vectores_ejercicio_01_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77503158-E243-4BA4-BC10-A5108FB1AB97}|Vectores_Ejercicio_01_Con_FUNCIONES\\Vectores_Ejercicio_01_Con_FUNCIONES.csproj|solutionrelative:vectores_ejercicio_01_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B19B1C6-2768-47C0-AD1F-D878381EF6CB}|Strings_Ejercicio_03_OtraForma\\Strings_Ejercicio_03_OtraForma.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\strings_ejercicio_03_otraforma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B19B1C6-2768-47C0-AD1F-D878381EF6CB}|Strings_Ejercicio_03_OtraForma\\Strings_Ejercicio_03_OtraForma.csproj|solutionrelative:strings_ejercicio_03_otraforma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8F4267-63B3-4391-BE09-DDE71B457819}|Vectores_Ejercicio_03_Con_FUNCIONES\\Vectores_Ejercicio_03_Con_FUNCIONES.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\vectores_ejercicio_03_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F4267-63B3-4391-BE09-DDE71B457819}|Vectores_Ejercicio_03_Con_FUNCIONES\\Vectores_Ejercicio_03_Con_FUNCIONES.csproj|solutionrelative:vectores_ejercicio_03_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B76BB2-982E-4AE0-B910-249DD5AF7AD5}|String_Ejercicio_04\\String_Ejercicio_04.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\string_ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B76BB2-982E-4AE0-B910-249DD5AF7AD5}|String_Ejercicio_04\\String_Ejercicio_04.csproj|solutionrelative:string_ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{46FEEB29-B599-4797-ABB6-06114F8D2B73}|PrimeraClase\\PrimeraClase.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\primeraclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46FEEB29-B599-4797-ABB6-06114F8D2B73}|PrimeraClase\\PrimeraClase.csproj|solutionrelative:primeraclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 85364a8201d2f290758b842b06fcaae5563ae093
+      "AbsoluteMoniker": "D:0:0:{CE8ED755-C583-4DEB-8781-685040B44773}|Vectores_Ejercicio_02_Con_FUNCIONES\\Vectores_Ejercicio_02_Con_FUNCIONES.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\vectores_ejercicio_02_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8ED755-C583-4DEB-8781-685040B44773}|Vectores_Ejercicio_02_Con_FUNCIONES\\Vectores_Ejercicio_02_Con_FUNCIONES.csproj|solutionrelative:vectores_ejercicio_02_con_funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\String_Ejercicio_04\\Program.cs",
-              "RelativeDocumentMoniker": "String_Ejercicio_04\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\String_Ejercicio_04\\Program.cs",
-              "RelativeToolTip": "String_Ejercicio_04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_03_Con_FUNCIONES\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores_Ejercicio_03_Con_FUNCIONES\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_03_Con_FUNCIONES\\Program.cs",
+              "RelativeToolTip": "Vectores_Ejercicio_03_Con_FUNCIONES\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:14:14.822Z",
+              "WhenOpened": "2024-04-14T22:41:42.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Strings_Ejercicio_03_OtraForma\\Program.cs",
-              "RelativeDocumentMoniker": "Strings_Ejercicio_03_OtraForma\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Strings_Ejercicio_03_OtraForma\\Program.cs",
-              "RelativeToolTip": "Strings_Ejercicio_03_OtraForma\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_02_Con_FUNCIONES\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores_Ejercicio_02_Con_FUNCIONES\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_02_Con_FUNCIONES\\Program.cs",
+              "RelativeToolTip": "Vectores_Ejercicio_02_Con_FUNCIONES\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:26:27.2Z",
+              "WhenOpened": "2024-04-14T22:32:07.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Strings_Ejercicio_05\\Program.cs",
-              "RelativeDocumentMoniker": "Strings_Ejercicio_05\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Strings_Ejercicio_05\\Program.cs",
-              "RelativeToolTip": "Strings_Ejercicio_05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_01_Con_FUNCIONES\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores_Ejercicio_01_Con_FUNCIONES\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Vectores_Ejercicio_01_Con_FUNCIONES\\Program.cs",
+              "RelativeToolTip": "Vectores_Ejercicio_01_Con_FUNCIONES\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:06:18.309Z",
-=======
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\PrimeraClase\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeraClase\\Program.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\PrimeraClase\\Program.cs",
-              "RelativeToolTip": "PrimeraClase\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T23:31:46.721Z",
->>>>>>> 85364a8201d2f290758b842b06fcaae5563ae093
+              "WhenOpened": "2024-04-14T21:56:01.911Z",
               "EditorCaption": ""
             }
           ]

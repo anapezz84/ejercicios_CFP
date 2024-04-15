@@ -21,7 +21,10 @@
 
         static string PedirCadena()
         {
-            return "";
+            string lectura;
+            Console.WriteLine("Bienvenido/a, ingrese una cadena: ");
+            lectura = Console.ReadLine();
+            return lectura;
         }
     }
 }

@@ -11,9 +11,11 @@ namespace TesteoClaseAuto
 
             Console.WriteLine(autoUno.TocarBocina());
 
+            Auto autoDos = new Auto("Chevrolet", "A223ABR", 2022, 133000.45);
+
+            autoDos.TocarBocina();
 
             Console.WriteLine($"marca:{autoUno.marca} patente:{autoUno.patente}  modelo:{autoUno.modelo}  precio:{autoUno.precio}");
-
 
 
         }

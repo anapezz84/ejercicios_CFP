@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81BAD0D1-14E3-4B8F-B50D-DC57BAD3CFB5}|TesteoDeRobots\\TesteoDeRobots.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81BAD0D1-14E3-4B8F-B50D-DC57BAD3CFB5}|TesteoDeRobots\\TesteoDeRobots.csproj|solutionrelative:testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC6328F8-DBD2-4981-807F-0724D9169F7C}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|c:\\users\\admin\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6328F8-DBD2-4981-807F-0724D9169F7C}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\TesteoDeRobots\\Program.cs",
-              "RelativeDocumentMoniker": "TesteoDeRobots\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\TesteoDeRobots\\Program.cs",
-              "RelativeToolTip": "TesteoDeRobots\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Title": "MisFunciones.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeFunciones\\MisFunciones.cs",
+              "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisFunciones.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeFunciones\\MisFunciones.cs",
+              "RelativeToolTip": "LibreriaDeFunciones\\MisFunciones.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T23:49:46.826Z",
+              "WhenOpened": "2024-04-22T23:21:31.34Z",
               "EditorCaption": ""
             }
           ]

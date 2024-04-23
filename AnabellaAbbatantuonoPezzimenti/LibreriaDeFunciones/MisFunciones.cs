@@ -31,7 +31,7 @@
             }
         }
 
-        public static int SumaValoresArrayEnteros(int[] misNumeros)
+            public static int SumaValoresArrayEnteros(int[] misNumeros)
         {
             int suma = 0;
             foreach (int numero in misNumeros)
@@ -110,11 +110,52 @@
             return vector;
         }
 
+        // averiguar si son numeros primos                                  
+        public static bool EsPrimo(int numero)
+        {
+            if (numero <= 1)
+            {
+                return false;
+            }
+
+            for (int i = 2; i <= Math.Sqrt(numero); i++)  //use esta forma de iterar ya que covenia iterar hasta la raiz cuadrada del número.
+            {
+                if (numero % i == 0)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+
+        }
+
+        // ingreso - Suma y promedio de array --> Se pide por parametro la cantidad de numeros que llevara este array
+        public static int[] IngresoSumaPromedioArray(int cantidad)
+        {
+
+            int[] array = new int[cantidad];
+            int sumaArray = 0;
+            int promedioArray = 0;
+
+            for (int i = 0; i < cantidad; i++)
+            {
+                Console.Write($"ingreses el {i + 1}° número: ");
+                array[i] = int.Parse(Console.ReadLine());
+                sumaArray += array[i];
+
+            }
+
+            promedioArray = sumaArray / cantidad;
+            Console.WriteLine($"La suma de los numeros ingresados al array es de {sumaArray}");
+            Console.WriteLine($"El promedio de los numeros ingresados al array es de {promedioArray}");
 
 
+            return array;
+        }
 
-        // que no reciben nada y no retornan nada.
-        public static void Saludar()
+            // que no reciben nada y no retornan nada.
+            public static void Saludar()
         {
             Console.Write("Ingrese su nombre: ");
             Console.WriteLine($"Bienvenido: {Console.ReadLine()}");

@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\bin\Debug\net8.0\LibreriaParcial.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\bin\Debug\net8.0\LibreriaParcial.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\bin\Debug\net8.0\LibreriaParcial.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\refint\LibreriaParcial.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\LibreriaParcial.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaParcial\obj\Debug\net8.0\ref\LibreriaParcial.dll

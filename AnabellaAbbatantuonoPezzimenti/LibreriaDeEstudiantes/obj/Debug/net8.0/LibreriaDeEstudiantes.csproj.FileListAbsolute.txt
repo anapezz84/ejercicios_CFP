@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.deps.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.AssemblyInfo.cs
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.sourcelink.json
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\refint\LibreriaDeEstudiantes.dll
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeEstudiantes\obj\Debug\net8.0\ref\LibreriaDeEstudiantes.dll

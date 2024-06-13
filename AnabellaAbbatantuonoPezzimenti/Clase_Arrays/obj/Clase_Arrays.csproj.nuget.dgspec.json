@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj": {}
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj": {
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj",
         "projectName": "Clase_Arrays",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\obj\\",
+        "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\Clase_Arrays.csproj",
+        "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Clase_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

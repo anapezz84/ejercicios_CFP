@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "LibreriaDeEstudiantes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LibreriaDeEstudiantes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibreriaDeEstudiantes.dll": {}
+        }
+      },
+      "MisClases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LibreriaDeEstudiantes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MisClases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MisClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibreriaDeEstudiantes/1.0.0": {
+      "type": "project",
+      "path": "../LibreriaDeEstudiantes/LibreriaDeEstudiantes.csproj",
+      "msbuildProject": "../LibreriaDeEstudiantes/LibreriaDeEstudiantes.csproj"
+    },
+    "MisClases/1.0.0": {
+      "type": "project",
+      "path": "../MisClases/MisClases.csproj",
+      "msbuildProject": "../MisClases/MisClases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MisClases >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\codoa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Form_Registrate\\Registrate.csproj",
+      "projectName": "Registrate",
+      "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Form_Registrate\\Registrate.csproj",
+      "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Form_Registrate\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\MisClases.csproj": {
+              "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\MisClases.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

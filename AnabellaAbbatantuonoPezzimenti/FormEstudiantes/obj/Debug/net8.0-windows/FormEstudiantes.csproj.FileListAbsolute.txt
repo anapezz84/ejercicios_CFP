@@ -20,3 +20,17 @@ C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudia
 C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.pdb
 C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.genruntimeconfig.cache
 C:\Users\admin\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\ref\FormEstudiantes.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.csproj.AssemblyReference.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiante.FormAltaMateria.resources
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.FormCargar.resources
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiante.FormEstadoAcademico.resources
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiante.FormInicial.resources
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.csproj.GenerateResource.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.AssemblyInfoInputs.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.AssemblyInfo.cs
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.csproj.CoreCompileInputs.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.sourcelink.json
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\refint\FormEstudiantes.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.pdb

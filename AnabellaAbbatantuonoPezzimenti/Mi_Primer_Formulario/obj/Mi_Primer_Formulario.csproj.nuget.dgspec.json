@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj": {}
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj": {
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj",
         "projectName": "Mi_Primer_Formulario",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\obj\\",
+        "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\Mi_Primer_Formulario.csproj",
+        "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Mi_Primer_Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

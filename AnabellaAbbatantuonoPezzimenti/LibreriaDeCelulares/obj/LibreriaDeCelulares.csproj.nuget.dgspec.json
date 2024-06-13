@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj": {}
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj": {
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj",
+        "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj",
         "projectName": "LibreriaDeCelulares",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\obj\\",
+        "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\LibreriaDeCelulares.csproj",
+        "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeCelulares\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

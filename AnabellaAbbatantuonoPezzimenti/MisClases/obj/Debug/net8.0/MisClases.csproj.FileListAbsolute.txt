@@ -1,0 +1,16 @@
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\bin\Debug\net8.0\MisClases.deps.json
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\bin\Debug\net8.0\MisClases.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\bin\Debug\net8.0\MisClases.pdb
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.csproj.AssemblyReference.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.sourcelink.json
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.csproj.Up2Date
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\MisClases.pdb
+D:\ejercicios_CFP\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\MisClases\obj\Debug\net8.0\ref\MisClases.dll

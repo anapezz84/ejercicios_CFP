@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj": {}
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj": {
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj",
+        "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj",
         "projectName": "Bucles_Repaso",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\obj\\",
+        "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\Bucles_Repaso.csproj",
+        "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Bucles_Repaso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

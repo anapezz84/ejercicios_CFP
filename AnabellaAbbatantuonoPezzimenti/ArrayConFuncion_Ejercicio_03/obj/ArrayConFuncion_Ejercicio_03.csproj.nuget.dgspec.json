@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj": {}
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj": {
+    "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj",
+        "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj",
         "projectName": "ArrayConFuncion_Ejercicio_03",
-        "projectPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\obj\\",
+        "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\ArrayConFuncion_Ejercicio_03.csproj",
+        "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ArrayConFuncion_Ejercicio_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\codoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

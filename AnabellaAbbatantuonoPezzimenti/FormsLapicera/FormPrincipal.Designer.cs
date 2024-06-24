@@ -42,16 +42,16 @@ namespace FormsLapicera
             dgvLapiceras.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvLapiceras.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvLapiceras.Location = new Point(85, 75);
-            dgvLapiceras.Margin = new Padding(5, 5, 5, 5);
+            dgvLapiceras.Margin = new Padding(5);
             dgvLapiceras.Name = "dgvLapiceras";
-            dgvLapiceras.Size = new Size(663, 474);
+            dgvLapiceras.Size = new Size(731, 474);
             dgvLapiceras.TabIndex = 0;
             // 
             // btnAgregar
             // 
             btnAgregar.Font = new System.Drawing.Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnAgregar.Location = new Point(332, 619);
-            btnAgregar.Margin = new Padding(5, 5, 5, 5);
+            btnAgregar.Location = new Point(394, 589);
+            btnAgregar.Margin = new Padding(5);
             btnAgregar.Name = "btnAgregar";
             btnAgregar.Size = new Size(165, 53);
             btnAgregar.TabIndex = 1;
@@ -64,12 +64,12 @@ namespace FormsLapicera
             AutoScaleDimensions = new SizeF(11F, 22F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Teal;
-            ClientSize = new Size(828, 687);
+            ClientSize = new Size(897, 687);
             Controls.Add(btnAgregar);
             Controls.Add(dgvLapiceras);
             Font = new System.Drawing.Font("Times New Roman", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             ForeColor = Color.Black;
-            Margin = new Padding(5, 5, 5, 5);
+            Margin = new Padding(5);
             Name = "FormPrincipal";
             Text = "FormPrincipal";
             Load += FormPrincipal_Load;

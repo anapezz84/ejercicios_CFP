@@ -1,0 +1,12 @@
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.deps.json
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfoInputs.cache
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfo.cs
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.csproj.CoreCompileInputs.cache
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.sourcelink.json
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\refint\LibreriaDeLapiceras.dll
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\LibreriaDeLapiceras\obj\Debug\net8.0\ref\LibreriaDeLapiceras.dll

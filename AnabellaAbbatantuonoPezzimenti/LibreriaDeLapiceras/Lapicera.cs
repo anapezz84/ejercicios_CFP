@@ -1,6 +1,10 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
+using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Threading.Tasks;
 
 namespace LibreriaDeLapiceras
 {
@@ -31,7 +35,6 @@ namespace LibreriaDeLapiceras
 
         public bool Escribir(int cantLetras)
         {
-            int tintaRestante = nivelDeTinta - cantLetras;
 
             if (nivelDeTinta >= cantLetras)
             {

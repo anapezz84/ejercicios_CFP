@@ -13,7 +13,7 @@ namespace FormsLapicera
         private void FormPrincipal_Load(object sender, EventArgs e)
         {
             listaLapiceras = new List<Lapicera>();
-            CargarDataGridView();
+            //CargarDataGridView();
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)

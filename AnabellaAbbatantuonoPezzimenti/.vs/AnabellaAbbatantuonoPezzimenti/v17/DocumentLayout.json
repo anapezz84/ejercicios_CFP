@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\misclases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|solutionrelative:misclases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\misclases\\clienteplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|solutionrelative:misclases\\clienteplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17F9E5A-231F-40BB-AF5B-FED9F1F7B184}|ConsoleClientes\\ConsoleClientes.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\consoleclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17F9E5A-231F-40BB-AF5B-FED9F1F7B184}|ConsoleClientes\\ConsoleClientes.csproj|solutionrelative:consoleclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ConsoleClientes\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\ConsoleClientes\\Program.cs",
+              "RelativeToolTip": "ConsoleClientes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:05:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientePlus.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\ClientePlus.cs",
+              "RelativeDocumentMoniker": "MisClases\\ClientePlus.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\ClientePlus.cs",
+              "RelativeToolTip": "MisClases\\ClientePlus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:00:28.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\Cliente.cs",
+              "RelativeDocumentMoniker": "MisClases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\Cliente.cs",
+              "RelativeToolTip": "MisClases\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:57:07.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

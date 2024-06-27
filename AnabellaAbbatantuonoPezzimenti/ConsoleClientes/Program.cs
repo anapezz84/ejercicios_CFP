@@ -6,15 +6,15 @@ namespace ConsoleClientes
     {
         static void Main(string[] args)
         {
-            Cliente cliente1 = new Cliente("Caja Ahorro", "20-35363314-8");
-            cliente1.Apellido = "Gutierrez";
-            cliente1.Nombre = "Kero";
-            cliente1.Edad = 22;
+            Cliente cliente1 = new Cliente("Caja Ahorro", "27-1231733-4");
+            cliente1.Apellido = "Pezzimenti";
+            cliente1.Nombre = "Liliana";
+            cliente1.Edad = 68;
 
-            Clienteplus clienteplus1 = new Clienteplus("Caja Ahorro", "20-15353314-8", 2593);
-            clienteplus1.Nombre = "Chicho";
-            clienteplus1.Apellido = "Serna";
-            clienteplus1.Edad = 52;
+            Clienteplus clienteplus1 = new Clienteplus("Caja Ahorro", "27-30697450-0", 2593);
+            clienteplus1.Nombre = "Anabella";
+            clienteplus1.Apellido = "Abbatantuono";
+            clienteplus1.Edad = 40;
 
             Console.WriteLine(cliente1.GuardarEnDisco());
             Console.WriteLine(clienteplus1.GuardarEnDisco());

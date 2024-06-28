@@ -1,45 +1,53 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace LibreriaEmpleados
 {
-    public abstract class Analista : Empleado
+    public class Analista : Empleado
     {
         string especialidad;
-        string proyectos;
+        string proyectos;  // List<string> proyectos;
 
-        public Analista(string nombre, int salario, string departamento, int antiguedad, int numeroEmpleados, string lenguajeProgramacion, string experiencia, string especialidad, string proyectos) : base(nombre, salario, departamento, antiguedad)
+        public Analista(string nombre, double salario, string departamento, int antiguedad, string especialidad, string proyectos) : base(nombre, salario, departamento, antiguedad)
         {
             this.especialidad = especialidad;
             this.proyectos = proyectos;
         }
 
-        public abstract string Trabajar() // public override string Trabajar()
+        public string Especialidad { get => especialidad; set => especialidad = value; }
+        public string Proyectos { get => proyectos; set => proyectos = value; }
+
+        public override string Trabajar()
         {
-            return "El analista está analizando los datos.";  // return $"{base.Trabajar()} analizando los datos";
+            return "El analista está analizando los datos.";
         }
         public virtual string MostrarInfo()
         {
             return $"Nombre: {nombre} - Salario: {salario} - Departamento: {departamento} - Antiguedad: {antiguedad}";
         }
 
-        public override string CalcularBonificacion()
+        public override double CalcularBonificacion(double salario)
         {
-            return = 0;
+            // los analistas reciben una bonificacion del 10% del salario.
+
+            double bonificacion = 0.10 * salario;
+
+            return bonificacion;
         }
 
-        public string 
-
-        public abstract string SalarioTotal()
+        public string PrepararInforme()
         {
-            return = 0;
+            return $"Analista {base.Nombre} esta preparando los informes de {Proyectos}."; // -->  CONTINUAR ACA UPDATEARLO
+        }
+
+        public override double SalarioTotal()
+        {
+            double salarioTotalCalculado = CalcularBonificacion(Salario) + Salario;
+
+            return salarioTotalCalculado;
         }
 
     }

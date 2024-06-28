@@ -1,43 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace LibreriaEmpleados
 {
-    public abstract class Gerente :Empleado
+    public class Gerente : Empleado
     {
         int numeroEmpleados;
 
-        public Gerente(string nombre, int salario, string departamento, int antiguedad, int numeroEmpleados) :base(nombre, salario, departamento, antiguedad)
+        public Gerente(string nombre, double salario, string departamento, int antiguedad, int numeroEmpleados) :base(nombre, salario, departamento, antiguedad)
         {
             this.numeroEmpleados = numeroEmpleados;
         }
 
-        public abstract string Trabajar() // public override string Trabajar()
+        public int NumeroEmpleados { get => numeroEmpleados; set => numeroEmpleados = value; }
+
+        public override string Trabajar() 
         {
-            return $"El gerente está gestionando el departamento";  // return $"{base.Trabajar()} gestionando el departamento";
+            return $"El gerente está gestionando el departamento"; 
         }
         public virtual string MostrarInfo()
         {
             return $"Nombre: {nombre} - Salario: {salario} - Departamento: {departamento} - Antiguedad: {antiguedad}";
         }
 
-        public override string CalcularBonificacion()
+        public override double CalcularBonificacion(double salario)
         {
-            return = 0;
+            //los gerentes reciben una bonificacion del 25% del salario.
+
+            double bonificacion = 0.25 * salario;
+
+            return bonificacion;
         }
 
-        public abstract string Planificar();
-
-        public abstract string SalarioTotal()
+        public string Planificar()
         {
-            return = 0;
+            return $"Gerente {base.Nombre} esta creando una planificacion para {NumeroEmpleados} empleados que tiene a cargo.";
+        }
+
+        public override double SalarioTotal()
+        {
+            double salarioTotalCalculado = CalcularBonificacion(Salario) + Salario;
+
+            return salarioTotalCalculado;
         }
 
     }

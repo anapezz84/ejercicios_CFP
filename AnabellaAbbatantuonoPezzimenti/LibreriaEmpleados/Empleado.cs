@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace LibreriaEmpleados
@@ -13,16 +9,21 @@ namespace LibreriaEmpleados
     public abstract class Empleado
     {
         protected string nombre;
-        protected int salario;
+        protected double salario;
         protected string departamento;
         protected int antiguedad;
 
-        protected Empleado (string nombre, int salario, string departamento, int antiguedad)
+        public string Nombre { get => nombre; set => nombre = value; }
+        public double Salario { get => salario; set => salario = value; }
+        public string Departamento { get => departamento; set => departamento = value; }
+        public int Antiguedad { get => antiguedad; set => antiguedad = value; }
+
+        protected Empleado(string nombre, double salario, string departamento, int antiguedad)
         {
-            this.nombre = nombre;
-            this.salario = salario;
-            this.departamento = departamento;
-            this.antiguedad = antiguedad;
+            this.Nombre = nombre;
+            this.Salario = salario;
+            this.Departamento = departamento;
+            this.Antiguedad = antiguedad;
         }
 
         public abstract string Trabajar();
@@ -31,15 +32,16 @@ namespace LibreriaEmpleados
             return $"Nombre: {nombre} - Salario: {salario} - Departamento: {departamento} - Antiguedad: {antiguedad}";
         }
 
-        public virtual string CalcularBonificacion()
+        public virtual double CalcularBonificacion(double salario)
         {
-            return = 0;
+            double bonificacion = 0 * salario;
+
+            return bonificacion;
         }
 
-        public abstract string SalarioTotal()
-        {
-            return = 0;
-        }
+        public abstract double SalarioTotal();  //retorna la informacion de la suma del salario mas el valor de la bonificacion
+
+        
 
     }
 }

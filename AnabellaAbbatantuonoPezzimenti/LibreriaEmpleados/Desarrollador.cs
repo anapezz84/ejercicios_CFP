@@ -1,48 +1,53 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace LibreriaEmpleados
 {
-    public abstract class Desarrollador : Empleado
+    public class Desarrollador : Empleado
     {
-        string lenguajeProgramacion;
-        string experiencia;
+        string LenguajeProgramacion;
+        int Experiencia;
 
-        public Desarrollador(string nombre, int salario, string departamento, int antiguedad, int numeroEmpleados, string lenguajeProgramacion, string experiencia) : base(nombre, salario, departamento, antiguedad)
+        public Desarrollador(string nombre, double salario, string departamento, int antiguedad, string lenguajeProgramacion, int experiencia) : base(nombre, salario, departamento, antiguedad)
         { 
-            this.lenguajeProgramacion = lenguajeProgramacion;
-            this.experiencia = experiencia;
+            this.LenguajeProgramacion = lenguajeProgramacion;
+            this.Experiencia = experiencia;
         }
 
-        public abstract string Trabajar() // public override string Trabajar()
+        public string LenguajeProgramacion1 { get => LenguajeProgramacion; set => LenguajeProgramacion = value; }
+        public int Experiencia1 { get => Experiencia; set => Experiencia = value; }
+
+        public override string Trabajar()
         {
-            return "El desarrollador está escribiendo código.";  // return $"{base.Trabajar()} escribiendo codigo";
+            return "El desarrollador está escribiendo código.";
         }
         public virtual string MostrarInfo()
         {
             return $"Nombre: {nombre} - Salario: {salario} - Departamento: {departamento} - Antiguedad: {antiguedad}";
         }
 
-        public override string CalcularBonificacion()
+        public override double CalcularBonificacion(double salario)
         {
-            return = 0;
+            //los desarrolladores reciben una bonificacion del 15% del salario.
+
+            double bonificacion = 0.15 * salario;
+
+            return bonificacion;
         }
 
         public string DepurarCodigo()
         {
-
+            return $"Desarrollador/a {base.Nombre} esta depurando el codigo escrito en lenguaje {LenguajeProgramacion}.";
         }
 
-        public abstract string SalarioTotal()
+        public override double SalarioTotal()
         {
-            return = 0;
+            double salarioTotalCalculado = CalcularBonificacion(Salario) + Salario;
+
+            return salarioTotalCalculado;
         }
 
     }

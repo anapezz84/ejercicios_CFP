@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj",
-      "projectName": "LibreriaDeLapiceras",
-      "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj",
+      "projectUniqueName": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeLapiceras\\LibreriaDeClases.csproj",
+      "projectName": "LibreriaDeClases",
+      "projectPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeLapiceras\\LibreriaDeClases.csproj",
       "packagesPath": "C:\\Users\\codoa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaDeLapiceras\\obj\\",
       "projectStyle": "PackageReference",

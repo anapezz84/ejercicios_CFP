@@ -20,3 +20,5 @@ C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapice
 C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapicera\obj\Debug\net8.0-windows\FormsLapicera.pdb
 C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapicera\obj\Debug\net8.0-windows\FormsLapicera.genruntimeconfig.cache
 C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapicera\obj\Debug\net8.0-windows\ref\FormsLapicera.dll
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapicera\obj\Debug\net8.0-windows\FormsLapicera.FormAltaLapicera.resources
+C:\Users\codoa\Desktop\ejercicios_CFP\AnabellaAbbatantuonoPezzimenti\FormsLapicera\obj\Debug\net8.0-windows\FormsLapicera.LapiceraPrincipal.resources

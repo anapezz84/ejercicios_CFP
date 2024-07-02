@@ -1,40 +1,33 @@
-using LibreriaDeLapiceras;
+using LibreriaDeClases;
 
 namespace FormsLapicera
 {
     public partial class FormPrincipal : Form
     {
-        private List<Lapicera> listaLapiceras;
+        List<Lapicera> lapiceras;
         public FormPrincipal()
         {
             InitializeComponent();
         }
 
-        private void FormPrincipal_Load(object sender, EventArgs e)
+        private void LapiceraPrincipal_Load(object sender, EventArgs e)
         {
-            listaLapiceras = new List<Lapicera>();
-            //CargarDataGridView();
+            lapiceras = new List<Lapicera>();
         }
 
-        private void btnAgregar_Click(object sender, EventArgs e)
+        private void btn_agregar_Click(object sender, EventArgs e)
         {
-            FormAlta formAlta = new FormAlta();
-            formAlta.ShowDialog();
-
-            if (formAlta.DialogResult == DialogResult.OK)
+            FormAltaLapicera formAltaLapicera = new FormAltaLapicera();
+            if (formAltaLapicera.ShowDialog() == DialogResult.OK)
             {
-                listaLapiceras.Add(formAlta.Lapiceras);
-                CargarDataGridView();
+                lapiceras.Add(formAltaLapicera.Lapicera);
+                dgvCargar();
             }
         }
-
-
-        private void CargarDataGridView()
+        private void dgvCargar()
         {
-            dgvLapiceras.DataSource = null;
-            dgvLapiceras.DataSource = listaLapiceras;
+            dgv_lapicera.DataSource = null;
+            dgv_lapicera.DataSource = lapiceras;
         }
     }
-
-
 }

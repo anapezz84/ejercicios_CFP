@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LibreriaDeClases;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using LibreriaDeLapiceras;
 
 namespace FormsLapicera
 {
@@ -24,7 +24,7 @@ namespace FormsLapicera
 
         private void FormAlta_Load(object sender, EventArgs e)
         {
-            cbxColor.DataSource = new List<string>() { "red", "blue", "black", "green", "light blue", "violet", "pink" }; //pasar esto a la clase
+            cbxColor.DataSource = new List<string>() { "red", "blue", "black", "green" }; //pasar esto a la clase
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
@@ -63,6 +63,11 @@ namespace FormsLapicera
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
+        }
+
+        private void rdbMiguel_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

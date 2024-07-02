@@ -47,11 +47,9 @@
             // btnAceptar
             // 
             btnAceptar.Font = new Font("Times New Roman", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnAceptar.ForeColor = Color.Black;
-            btnAceptar.Location = new Point(170, 450);
-            btnAceptar.Margin = new Padding(4, 4, 4, 4);
+            btnAceptar.Location = new Point(429, 367);
             btnAceptar.Name = "btnAceptar";
-            btnAceptar.Size = new Size(118, 49);
+            btnAceptar.Size = new Size(129, 39);
             btnAceptar.TabIndex = 6;
             btnAceptar.Text = "ACEPTAR";
             btnAceptar.UseVisualStyleBackColor = true;
@@ -60,11 +58,9 @@
             // btnCancelar
             // 
             btnCancelar.Font = new Font("Times New Roman", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnCancelar.ForeColor = Color.Black;
-            btnCancelar.Location = new Point(498, 450);
-            btnCancelar.Margin = new Padding(4, 4, 4, 4);
+            btnCancelar.Location = new Point(157, 367);
             btnCancelar.Name = "btnCancelar";
-            btnCancelar.Size = new Size(136, 49);
+            btnCancelar.Size = new Size(133, 39);
             btnCancelar.TabIndex = 7;
             btnCancelar.Text = "CANCELAR";
             btnCancelar.UseVisualStyleBackColor = true;
@@ -74,33 +70,29 @@
             // 
             gpbValor.Controls.Add(txtPrecio);
             gpbValor.Font = new Font("Times New Roman", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            gpbValor.Location = new Point(445, 100);
-            gpbValor.Margin = new Padding(4, 4, 4, 4);
+            gpbValor.Location = new Point(346, 79);
             gpbValor.Name = "gpbValor";
-            gpbValor.Padding = new Padding(4, 4, 4, 4);
-            gpbValor.Size = new Size(321, 133);
+            gpbValor.Size = new Size(250, 105);
             gpbValor.TabIndex = 8;
             gpbValor.TabStop = false;
             gpbValor.Text = "VALOR";
             // 
             // txtPrecio
             // 
-            txtPrecio.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtPrecio.Location = new Point(53, 54);
-            txtPrecio.Margin = new Padding(4, 4, 4, 4);
+            txtPrecio.Font = new Font("Segoe UI", 12F);
+            txtPrecio.Location = new Point(41, 43);
             txtPrecio.Name = "txtPrecio";
             txtPrecio.PlaceholderText = "ingrese precio";
-            txtPrecio.Size = new Size(219, 26);
+            txtPrecio.Size = new Size(171, 29);
             txtPrecio.TabIndex = 5;
             // 
             // cbxColor
             // 
             cbxColor.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cbxColor.FormattingEnabled = true;
-            cbxColor.Location = new Point(53, 41);
-            cbxColor.Margin = new Padding(4, 4, 4, 4);
+            cbxColor.Location = new Point(41, 32);
             cbxColor.Name = "cbxColor";
-            cbxColor.Size = new Size(237, 29);
+            cbxColor.Size = new Size(185, 29);
             cbxColor.TabIndex = 3;
             // 
             // gbxMarcas
@@ -110,50 +102,45 @@
             gbxMarcas.Controls.Add(rdbJapan);
             gbxMarcas.Controls.Add(rdbMario);
             gbxMarcas.Font = new Font("Times New Roman", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            gbxMarcas.ForeColor = Color.FromArgb(64, 0, 0);
-            gbxMarcas.Location = new Point(113, 92);
-            gbxMarcas.Margin = new Padding(4, 4, 4, 4);
+            gbxMarcas.Location = new Point(88, 73);
             gbxMarcas.Name = "gbxMarcas";
-            gbxMarcas.Padding = new Padding(4, 4, 4, 4);
-            gbxMarcas.Size = new Size(265, 296);
+            gbxMarcas.Size = new Size(206, 234);
             gbxMarcas.TabIndex = 9;
             gbxMarcas.TabStop = false;
-            gbxMarcas.Text = "MARCAS";
+            gbxMarcas.Text = "Marcas";
             // 
             // rdbMiguel
             // 
             rdbMiguel.AutoSize = true;
             rdbMiguel.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            rdbMiguel.Location = new Point(57, 223);
-            rdbMiguel.Margin = new Padding(4, 4, 4, 4);
+            rdbMiguel.Location = new Point(44, 176);
             rdbMiguel.Name = "rdbMiguel";
-            rdbMiguel.Size = new Size(198, 29);
+            rdbMiguel.Size = new Size(100, 23);
             rdbMiguel.TabIndex = 3;
             rdbMiguel.TabStop = true;
-            rdbMiguel.Text = "FABER CASTELL";
+            rdbMiguel.Text = "SIMBALL";
             rdbMiguel.UseVisualStyleBackColor = true;
+            rdbMiguel.CheckedChanged += rdbMiguel_CheckedChanged;
             // 
             // rdbChiche
             // 
             rdbChiche.AutoSize = true;
             rdbChiche.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            rdbChiche.Location = new Point(57, 168);
-            rdbChiche.Margin = new Padding(4, 4, 4, 4);
+            rdbChiche.Location = new Point(44, 133);
             rdbChiche.Name = "rdbChiche";
-            rdbChiche.Size = new Size(134, 29);
+            rdbChiche.Size = new Size(158, 23);
             rdbChiche.TabIndex = 2;
             rdbChiche.TabStop = true;
-            rdbChiche.Text = "SYMBALL";
+            rdbChiche.Text = "BIC ROUND STIC";
             rdbChiche.UseVisualStyleBackColor = true;
             // 
             // rdbJapan
             // 
             rdbJapan.AutoSize = true;
             rdbJapan.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            rdbJapan.Location = new Point(57, 109);
-            rdbJapan.Margin = new Padding(4, 4, 4, 4);
+            rdbJapan.Location = new Point(44, 86);
             rdbJapan.Name = "rdbJapan";
-            rdbJapan.Size = new Size(108, 29);
+            rdbJapan.Size = new Size(84, 23);
             rdbJapan.TabIndex = 1;
             rdbJapan.TabStop = true;
             rdbJapan.Text = "MICRO";
@@ -163,42 +150,36 @@
             // 
             rdbMario.AutoSize = true;
             rdbMario.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            rdbMario.Location = new Point(57, 49);
-            rdbMario.Margin = new Padding(4, 4, 4, 4);
+            rdbMario.Location = new Point(44, 39);
             rdbMario.Name = "rdbMario";
-            rdbMario.Size = new Size(71, 29);
+            rdbMario.Size = new Size(154, 23);
             rdbMario.TabIndex = 0;
             rdbMario.TabStop = true;
-            rdbMario.Text = "BIC\r\n";
+            rdbMario.Text = "FABER CASTELL";
             rdbMario.UseVisualStyleBackColor = true;
             // 
             // groupBox1
             // 
             groupBox1.Controls.Add(cbxColor);
             groupBox1.Font = new Font("Times New Roman", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            groupBox1.Location = new Point(445, 262);
-            groupBox1.Margin = new Padding(4, 4, 4, 4);
+            groupBox1.Location = new Point(346, 207);
             groupBox1.Name = "groupBox1";
-            groupBox1.Padding = new Padding(4, 4, 4, 4);
-            groupBox1.Size = new Size(321, 127);
+            groupBox1.Size = new Size(250, 100);
             groupBox1.TabIndex = 10;
             groupBox1.TabStop = false;
-            groupBox1.Text = "SELECTOR DE COLOR";
+            groupBox1.Text = "Selector de color";
             // 
             // FormAlta
             // 
-            AutoScaleDimensions = new SizeF(9F, 19F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Teal;
-            ClientSize = new Size(854, 562);
+            ClientSize = new Size(664, 444);
             Controls.Add(groupBox1);
             Controls.Add(gbxMarcas);
             Controls.Add(gpbValor);
             Controls.Add(btnCancelar);
             Controls.Add(btnAceptar);
-            Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            ForeColor = Color.Teal;
-            Margin = new Padding(4, 4, 4, 4);
             Name = "FormAlta";
             Text = "FormAlta";
             Load += FormAlta_Load;

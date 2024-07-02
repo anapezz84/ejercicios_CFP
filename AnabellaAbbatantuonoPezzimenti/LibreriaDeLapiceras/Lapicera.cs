@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Text;
 using System.Linq;
-using System.Runtime.CompilerServices;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace LibreriaDeLapiceras
+namespace LibreriaDeClases
 {
     public class Lapicera
     {
@@ -19,41 +18,37 @@ namespace LibreriaDeLapiceras
         public double Precio { get => precio; }
         public string Marca { get => marca; }
         public int NivelDeTinta { get => nivelDeTinta; }
-
-        public Lapicera(Color color, double precio, string marca)
+        private Lapicera()
+        {
+            nivelDeTinta = 100;
+        }
+        public Lapicera(Color color, double precio, string marca) : this()
         {
             this.color = color;
             this.precio = precio;
             this.marca = marca;
-            this.nivelDeTinta = 100;
         }
-
-        public override string? ToString()
-        {
-            return $"La marca {Marca} - el precio {Precio} - color {Color} - nivel de tinta {NivelDeTinta}";
-        }
-
         public bool Escribir(int cantLetras)
         {
-
-            if (nivelDeTinta >= cantLetras)
+            bool bandera = false;
+            if (cantLetras <= NivelDeTinta)
             {
                 nivelDeTinta -= cantLetras;
-                return true;
+                bandera = true;
             }
-            else
-            {
-                return false;
-            }
-
+            return bandera;
         }
-
         public void Recargar()
         {
             nivelDeTinta = 100;
         }
-
-
+        public override string ToString()
+        {
+            string mensaje = $"Color:{color.Name} - Precio:{Precio} - Marca:{Marca} - Nivel de tinta:{NivelDeTinta}";
+            return mensaje;
+        }
+    }
+}
 
 
         //Sobreescribir el metodo ToString() para que muestre todos sus valores.
@@ -66,7 +61,3 @@ namespace LibreriaDeLapiceras
         //Al igual que hicimos con los formularios de ingresante, crear dos forms, el principal con el datagridview y el boton agregar y
         //el fomrAlta para crear lapiceras, utilizar groupbox, combobox y la mayor variedad de componentes posibles.
 
-
-
-    }
-}

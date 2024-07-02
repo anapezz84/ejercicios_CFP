@@ -1,6 +1,8 @@
 ﻿using static System.Net.Mime.MediaTypeNames;
+using System.Drawing.Printing;
 using System.Windows.Forms;
 using System.Xml.Linq;
+
 
 namespace FormsLapicera
 {
@@ -32,54 +34,55 @@ namespace FormsLapicera
         /// </summary>
         private void InitializeComponent()
         {
-            dgvLapiceras = new DataGridView();
-            btnAgregar = new Button();
-            ((System.ComponentModel.ISupportInitialize)dgvLapiceras).BeginInit();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPrincipal));
+            dgv_lapicera = new DataGridView();
+            btn_agregar = new Button();
+            ((System.ComponentModel.ISupportInitialize)dgv_lapicera).BeginInit();
             SuspendLayout();
             // 
-            // dgvLapiceras
+            // dgv_lapicera
             // 
-            dgvLapiceras.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            dgvLapiceras.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvLapiceras.Location = new Point(85, 75);
-            dgvLapiceras.Margin = new Padding(5);
-            dgvLapiceras.Name = "dgvLapiceras";
-            dgvLapiceras.Size = new Size(731, 474);
-            dgvLapiceras.TabIndex = 0;
+            dgv_lapicera.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgv_lapicera.BackgroundColor = SystemColors.ControlDarkDark;
+            dgv_lapicera.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgv_lapicera.Location = new Point(13, 13);
+            dgv_lapicera.Margin = new Padding(4);
+            dgv_lapicera.Name = "dgv_lapicera";
+            dgv_lapicera.Size = new Size(1383, 542);
+            dgv_lapicera.TabIndex = 0;
             // 
-            // btnAgregar
+            // btn_agregar
             // 
-            btnAgregar.Font = new System.Drawing.Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnAgregar.Location = new Point(394, 589);
-            btnAgregar.Margin = new Padding(5);
-            btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(165, 53);
-            btnAgregar.TabIndex = 1;
-            btnAgregar.Text = "AGREGAR";
-            btnAgregar.UseVisualStyleBackColor = true;
-            btnAgregar.Click += btnAgregar_Click;
+            btn_agregar.Location = new Point(605, 564);
+            btn_agregar.Margin = new Padding(4);
+            btn_agregar.Name = "btn_agregar";
+            btn_agregar.Size = new Size(154, 50);
+            btn_agregar.TabIndex = 0;
+            btn_agregar.Text = "Agregar";
+            btn_agregar.UseVisualStyleBackColor = true;
+            btn_agregar.Click += btn_agregar_Click;
             // 
-            // FormPrincipal
+            // LapiceraPrincipal
             // 
-            AutoScaleDimensions = new SizeF(11F, 22F);
+            AutoScaleDimensions = new SizeF(10F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Teal;
-            ClientSize = new Size(897, 687);
-            Controls.Add(btnAgregar);
-            Controls.Add(dgvLapiceras);
-            Font = new System.Drawing.Font("Times New Roman", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            ForeColor = Color.Black;
-            Margin = new Padding(5);
-            Name = "FormPrincipal";
-            Text = "FormPrincipal";
-            Load += FormPrincipal_Load;
-            ((System.ComponentModel.ISupportInitialize)dgvLapiceras).EndInit();
+            BackColor = SystemColors.AppWorkspace;
+            ClientSize = new Size(1420, 627);
+            Controls.Add(btn_agregar);
+            Controls.Add(dgv_lapicera);
+            Font = new Font("Microsoft New Tai Lue", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(4);
+            Name = "LapiceraPrincipal";
+            Text = "Lista de lapiceras creadas";
+            Load += LapiceraPrincipal_Load;
+            ((System.ComponentModel.ISupportInitialize)dgv_lapicera).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private DataGridView dgvLapiceras;
-        private Button btnAgregar;
+        private DataGridView dgv_lapicera;
+        private Button btn_agregar;
     }
 }

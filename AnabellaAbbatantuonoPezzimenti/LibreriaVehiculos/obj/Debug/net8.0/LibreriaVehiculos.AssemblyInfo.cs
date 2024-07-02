@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaVehiculos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e04e93fa702b6eed007c2a8f71bcda6f2784d7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179ea3d4bee094d6900edbc679889436faf0b67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaVehiculos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaVehiculos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

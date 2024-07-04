@@ -64,10 +64,5 @@ namespace FormsLapicera
         {
             DialogResult = DialogResult.Cancel;
         }
-
-        private void rdbMiguel_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

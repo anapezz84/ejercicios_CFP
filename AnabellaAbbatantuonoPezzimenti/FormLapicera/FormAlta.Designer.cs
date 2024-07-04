@@ -120,7 +120,7 @@
             rdbMiguel.TabStop = true;
             rdbMiguel.Text = "SIMBALL";
             rdbMiguel.UseVisualStyleBackColor = true;
-            rdbMiguel.CheckedChanged += rdbMiguel_CheckedChanged;
+            
             // 
             // rdbChiche
             // 

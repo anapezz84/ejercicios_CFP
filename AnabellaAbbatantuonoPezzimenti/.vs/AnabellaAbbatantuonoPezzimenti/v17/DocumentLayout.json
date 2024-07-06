@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formscomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|solutionrelative:formscomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formsregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|solutionrelative:formsregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formscomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|solutionrelative:formscomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formsregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|solutionrelative:formsregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287FEAF2-00B2-4083-803D-7DF5CCFE4A04}|LibreriaComputadora\\LibreriaComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\libreriacomputadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287FEAF2-00B2-4083-803D-7DF5CCFE4A04}|LibreriaComputadora\\LibreriaComputadora.csproj|solutionrelative:libreriacomputadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\misclases\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}|MisClases\\MisClases.csproj|solutionrelative:misclases\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formscomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|solutionrelative:formscomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formsregistrate\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|solutionrelative:formsregistrate\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formscomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0674500-40B4-4286-A4E1-13ADE4B85D0F}|FormsComputadora\\FormsComputadora.csproj|solutionrelative:formscomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formsregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|solutionrelative:formsregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\formsregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B81F0EC0-718D-435A-98AF-49F06FB4230C}|FormsRegistrate\\FormsRegistrate.csproj|solutionrelative:formsregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormAlta.cs",
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormAlta.cs",
-              "RelativeDocumentMoniker": "FormsComputadora\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormAlta.cs",
-              "RelativeToolTip": "FormsComputadora\\FormAlta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:34:39.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormAlta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormAlta.cs",
-              "RelativeDocumentMoniker": "FormsComputadora\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormAlta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormsComputadora\\FormAlta.cs [Dise\u00F1o]",
+              "Title": "FormAlta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.Designer.cs",
+              "RelativeDocumentMoniker": "FormsRegistrate\\FormAlta.Designer.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.Designer.cs",
+              "RelativeToolTip": "FormsRegistrate\\FormAlta.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:34:30.695Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-05T23:55:32.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormsComputadora\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormPrincipal.cs",
-              "RelativeToolTip": "FormsComputadora\\FormPrincipal.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAANAAAA",
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormsRegistrate\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.cs",
+              "RelativeToolTip": "FormsRegistrate\\FormAlta.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB0AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:19:27.14Z",
+              "WhenOpened": "2024-07-05T23:39:55.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormsComputadora\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsComputadora\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormsComputadora\\FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormsRegistrate\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormsRegistrate\\FormAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:19:17.309Z",
+              "WhenOpened": "2024-07-05T23:39:46.258Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormsRegistrate\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormPrincipal.cs",
+              "RelativeToolTip": "FormsRegistrate\\FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T23:31:35.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormsRegistrate\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormsRegistrate\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormsRegistrate\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T23:25:49.865Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Computadora.cs",
-              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaComputadora\\Computadora.cs",
-              "RelativeDocumentMoniker": "LibreriaComputadora\\Computadora.cs",
-              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\LibreriaComputadora\\Computadora.cs",
-              "RelativeToolTip": "LibreriaComputadora\\Computadora.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADUAAAA6AAAA",
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\Ingresante.cs",
+              "RelativeDocumentMoniker": "MisClases\\Ingresante.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\MisClases\\Ingresante.cs",
+              "RelativeToolTip": "MisClases\\Ingresante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T21:54:44.209Z",
+              "WhenOpened": "2024-07-05T23:09:51.004Z",
               "EditorCaption": ""
             }
           ]

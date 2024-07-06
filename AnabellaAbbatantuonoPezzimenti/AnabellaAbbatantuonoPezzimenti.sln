@@ -193,8 +193,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormEstudiantes", "FormEstu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MisClases", "MisClases\MisClases.csproj", "{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registrate", "Form_Registrate\Registrate.csproj", "{F4B95D13-D8D5-4E32-86C0-95578EC2487E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeClases", "LibreriaDeLapiceras\LibreriaDeClases.csproj", "{C8EABAE7-B5F8-42FB-A34E-791F00814E11}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeHerencia", "LibreriaDeHerencia\LibreriaDeHerencia.csproj", "{4004BFF2-01E9-442A-ADE2-0F0BB943892C}"
@@ -213,9 +211,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainEmpleado", "MainEmplead
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormLapicera", "FormLapicera\FormLapicera.csproj", "{21CDDE7E-AA2D-40AE-9D26-FBA3517A3CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaComputadora", "LibreriaComputadora\LibreriaComputadora.csproj", "{287FEAF2-00B2-4083-803D-7DF5CCFE4A04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaComputadora", "LibreriaComputadora\LibreriaComputadora.csproj", "{287FEAF2-00B2-4083-803D-7DF5CCFE4A04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsComputadora", "FormsComputadora\FormsComputadora.csproj", "{B0674500-40B4-4286-A4E1-13ADE4B85D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormsComputadora", "FormsComputadora\FormsComputadora.csproj", "{B0674500-40B4-4286-A4E1-13ADE4B85D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaComputadora_Parcial", "LibreriaComputadora_Parcial\LibreriaComputadora_Parcial.csproj", "{4E64EA66-159B-42CD-83EA-A444A58A36E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsComputadora_Parcial", "FormsComputadora_Parcial\FormsComputadora_Parcial.csproj", "{95B92A40-4850-40DE-8DBF-C4814E0E55F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsRegistrate", "FormsRegistrate\FormsRegistrate.csproj", "{B81F0EC0-718D-435A-98AF-49F06FB4230C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -603,10 +607,6 @@ Global
 		{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6114325A-8CEA-4F1C-A943-C9EBEDE067FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4B95D13-D8D5-4E32-86C0-95578EC2487E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4B95D13-D8D5-4E32-86C0-95578EC2487E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4B95D13-D8D5-4E32-86C0-95578EC2487E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4B95D13-D8D5-4E32-86C0-95578EC2487E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C8EABAE7-B5F8-42FB-A34E-791F00814E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C8EABAE7-B5F8-42FB-A34E-791F00814E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8EABAE7-B5F8-42FB-A34E-791F00814E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -651,6 +651,18 @@ Global
 		{B0674500-40B4-4286-A4E1-13ADE4B85D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0674500-40B4-4286-A4E1-13ADE4B85D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0674500-40B4-4286-A4E1-13ADE4B85D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E64EA66-159B-42CD-83EA-A444A58A36E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E64EA66-159B-42CD-83EA-A444A58A36E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E64EA66-159B-42CD-83EA-A444A58A36E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E64EA66-159B-42CD-83EA-A444A58A36E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B92A40-4850-40DE-8DBF-C4814E0E55F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B92A40-4850-40DE-8DBF-C4814E0E55F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B92A40-4850-40DE-8DBF-C4814E0E55F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B92A40-4850-40DE-8DBF-C4814E0E55F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81F0EC0-718D-435A-98AF-49F06FB4230C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81F0EC0-718D-435A-98AF-49F06FB4230C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81F0EC0-718D-435A-98AF-49F06FB4230C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81F0EC0-718D-435A-98AF-49F06FB4230C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

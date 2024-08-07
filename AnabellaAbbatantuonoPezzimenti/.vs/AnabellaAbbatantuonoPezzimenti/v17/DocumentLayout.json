@@ -1,12 +1,131 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A7E752-CABC-4082-A4F1-14233A8F11EA}|Segunda_evaluacion\\Segunda_evaluacion.csproj|c:\\users\\codoa\\desktop\\ejercicios_cfp\\anabellaabbatantuonopezzimenti\\segunda_evaluacion\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A7E752-CABC-4082-A4F1-14233A8F11EA}|Segunda_evaluacion\\Segunda_evaluacion.csproj|solutionrelative:segunda_evaluacion\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B4AED9-1B62-412B-8DE8-577A03493A00}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAlta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.Designer.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.Designer.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.Designer.cs",
+              "RelativeToolTip": "FormComputadora\\FormAlta.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:17:44.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "FormComputadora\\FormPrincipal.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:14:22.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.cs",
+              "RelativeToolTip": "FormComputadora\\FormAlta.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:38:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.cs",
+              "RelativeToolTip": "FormComputadora\\FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:08:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormComputadora\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:07:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Segunda_evaluacion\\Computadora.cs",
+              "RelativeDocumentMoniker": "Segunda_evaluacion\\Computadora.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\Segunda_evaluacion\\Computadora.cs",
+              "RelativeToolTip": "Segunda_evaluacion\\Computadora.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:33:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\codoa\\Desktop\\ejercicios_CFP\\AnabellaAbbatantuonoPezzimenti\\FormComputadora\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormComputadora\\FormAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:28:49.965Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
